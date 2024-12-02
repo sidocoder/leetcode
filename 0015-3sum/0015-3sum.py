@@ -5,7 +5,6 @@ class Solution:
         nums.sort()
         n = len(nums)
         result = []
-        
         for i in range(n - 2):
             if i > 0 and nums[i] == nums[i - 1]:
                 continue
