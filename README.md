@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/sidocoder/leetcode/tree/master/0463-island-perimeter) |
 | [0960-minimize-malware-spread](https://github.com/sidocoder/leetcode/tree/master/0960-minimize-malware-spread) |
 | [1039-find-the-town-judge](https://github.com/sidocoder/leetcode/tree/master/1039-find-the-town-judge) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/sidocoder/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sidocoder/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Binary Search
+|  |
+| ------- |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/sidocoder/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 <!---LeetCode Topics End-->
