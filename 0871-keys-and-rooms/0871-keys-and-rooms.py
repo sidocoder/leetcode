@@ -15,20 +15,18 @@ class Solution:
             index = rooms.index(num)
             for item in num:
                 graph[index].append(item)
-        visited = [0]
+        visited = set([0])
         queue = deque([0])
 
         while queue:
-            n = len(queue)
-            for i in range(n):
-                room = queue.popleft()
-
-                if graph[room]:
-                    for key in graph[room]:
-                        if key not in visited:
-                            visited.append(key)
-                            queue.append(key)
-        return len(set(visited)) == len(rooms)
+            
+            room = queue.popleft()
+        
+            for key in graph[room]:
+                if key not in visited:
+                    visited.add(key)
+                    queue.append(key)
+        return len(visited) == len(rooms)
 
         
 
