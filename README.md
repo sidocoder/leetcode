@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-minimize-malware-spread](https://github.com/sidocoder/leetcode/tree/master/0960-minimize-malware-spread) |
 | [1005-univalued-binary-tree](https://github.com/sidocoder/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/sidocoder/leetcode/tree/master/1036-rotting-oranges) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/sidocoder/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 ## Matrix
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/sidocoder/leetcode/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/sidocoder/leetcode/tree/master/0960-minimize-malware-spread) |
 | [1039-find-the-town-judge](https://github.com/sidocoder/leetcode/tree/master/1039-find-the-town-judge) |
+| [1229-shortest-path-with-alternating-colors](https://github.com/sidocoder/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 ## Hash Table
 |  |
 | ------- |
