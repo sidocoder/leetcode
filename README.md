@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sidocoder/leetcode/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/sidocoder/leetcode/tree/master/0463-island-perimeter) |
 | [0801-is-graph-bipartite](https://github.com/sidocoder/leetcode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/sidocoder/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/sidocoder/leetcode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/sidocoder/leetcode/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/sidocoder/leetcode/tree/master/0960-minimize-malware-spread) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/sidocoder/leetcode/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/sidocoder/leetcode/tree/master/0542-01-matrix) |
 | [0801-is-graph-bipartite](https://github.com/sidocoder/leetcode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/sidocoder/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/sidocoder/leetcode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/sidocoder/leetcode/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/sidocoder/leetcode/tree/master/0960-minimize-malware-spread) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sidocoder/leetcode/tree/master/0207-course-schedule) |
 | [0801-is-graph-bipartite](https://github.com/sidocoder/leetcode/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/sidocoder/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/sidocoder/leetcode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/sidocoder/leetcode/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/sidocoder/leetcode/tree/master/0960-minimize-malware-spread) |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sidocoder/leetcode/tree/master/0207-course-schedule) |
+| [0820-find-eventual-safe-states](https://github.com/sidocoder/leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Tree
 |  |
 | ------- |
