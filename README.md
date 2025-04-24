@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sidocoder/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sidocoder/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/sidocoder/leetcode/tree/master/0463-island-perimeter) |
+| [0529-minesweeper](https://github.com/sidocoder/leetcode/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/sidocoder/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sidocoder/leetcode/tree/master/0733-flood-fill) |
 | [0960-minimize-malware-spread](https://github.com/sidocoder/leetcode/tree/master/0960-minimize-malware-spread) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sidocoder/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sidocoder/leetcode/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/sidocoder/leetcode/tree/master/0463-island-perimeter) |
+| [0529-minesweeper](https://github.com/sidocoder/leetcode/tree/master/0529-minesweeper) |
 | [0733-flood-fill](https://github.com/sidocoder/leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/sidocoder/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/sidocoder/leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/sidocoder/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sidocoder/leetcode/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/sidocoder/leetcode/tree/master/0463-island-perimeter) |
+| [0529-minesweeper](https://github.com/sidocoder/leetcode/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/sidocoder/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sidocoder/leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/sidocoder/leetcode/tree/master/0801-is-graph-bipartite) |
@@ -49,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/sidocoder/leetcode/tree/master/0463-island-perimeter) |
+| [0529-minesweeper](https://github.com/sidocoder/leetcode/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/sidocoder/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sidocoder/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/sidocoder/leetcode/tree/master/1036-rotting-oranges) |
