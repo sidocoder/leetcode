@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/sidocoder/leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/sidocoder/leetcode/tree/master/1039-find-the-town-judge) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sidocoder/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/sidocoder/leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sidocoder/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sidocoder/leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/sidocoder/leetcode/tree/master/1036-rotting-oranges) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/sidocoder/leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Union Find
 |  |
 | ------- |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/sidocoder/leetcode/tree/master/0542-01-matrix) |
+## Simulation
+|  |
+| ------- |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/sidocoder/leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 <!---LeetCode Topics End-->
