@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sidocoder/leetcode/tree/master/0022-generate-parentheses) |
 | [0542-01-matrix](https://github.com/sidocoder/leetcode/tree/master/0542-01-matrix) |
 ## Simulation
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sidocoder/leetcode/tree/master/0022-generate-parentheses) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sidocoder/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sidocoder/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/sidocoder/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sidocoder/leetcode/tree/master/0022-generate-parentheses) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sidocoder/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/sidocoder/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
