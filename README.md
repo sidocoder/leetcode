@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/sidocoder/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sidocoder/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/sidocoder/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
@@ -218,5 +219,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/sidocoder/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/sidocoder/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+## Stack
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/sidocoder/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+## Greedy
+|  |
+| ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/sidocoder/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 <!---LeetCode Topics End-->
