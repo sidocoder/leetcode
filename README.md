@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sidocoder/leetcode/tree/master/0210-course-schedule-ii) |
 | [0463-island-perimeter](https://github.com/sidocoder/leetcode/tree/master/0463-island-perimeter) |
 | [0529-minesweeper](https://github.com/sidocoder/leetcode/tree/master/0529-minesweeper) |
+| [0547-number-of-provinces](https://github.com/sidocoder/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sidocoder/leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/sidocoder/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/sidocoder/leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/sidocoder/leetcode/tree/master/0463-island-perimeter) |
 | [0529-minesweeper](https://github.com/sidocoder/leetcode/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/sidocoder/leetcode/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/sidocoder/leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/sidocoder/leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/sidocoder/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/sidocoder/leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/sidocoder/leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/sidocoder/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/sidocoder/leetcode/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/sidocoder/leetcode/tree/master/0960-minimize-malware-spread) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sidocoder/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sidocoder/leetcode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/sidocoder/leetcode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/sidocoder/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/sidocoder/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/sidocoder/leetcode/tree/master/0871-keys-and-rooms) |
