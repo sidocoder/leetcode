@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/sidocoder/leetcode/tree/master/0463-island-perimeter) |
 | [0529-minesweeper](https://github.com/sidocoder/leetcode/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/sidocoder/leetcode/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/sidocoder/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sidocoder/leetcode/tree/master/0733-flood-fill) |
 | [0960-minimize-malware-spread](https://github.com/sidocoder/leetcode/tree/master/0960-minimize-malware-spread) |
 | [1036-rotting-oranges](https://github.com/sidocoder/leetcode/tree/master/1036-rotting-oranges) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/sidocoder/leetcode/tree/master/0463-island-perimeter) |
 | [0529-minesweeper](https://github.com/sidocoder/leetcode/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/sidocoder/leetcode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/sidocoder/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sidocoder/leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/sidocoder/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/sidocoder/leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/sidocoder/leetcode/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/sidocoder/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sidocoder/leetcode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/sidocoder/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sidocoder/leetcode/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/sidocoder/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/sidocoder/leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sidocoder/leetcode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/sidocoder/leetcode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/sidocoder/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/sidocoder/leetcode/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/sidocoder/leetcode/tree/master/0960-minimize-malware-spread) |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sidocoder/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sidocoder/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sidocoder/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0721-accounts-merge](https://github.com/sidocoder/leetcode/tree/master/0721-accounts-merge) |
 | [0960-minimize-malware-spread](https://github.com/sidocoder/leetcode/tree/master/0960-minimize-malware-spread) |
 | [1039-find-the-town-judge](https://github.com/sidocoder/leetcode/tree/master/1039-find-the-town-judge) |
 ## Divide and Conquer
@@ -115,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sidocoder/leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/sidocoder/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sidocoder/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0721-accounts-merge](https://github.com/sidocoder/leetcode/tree/master/0721-accounts-merge) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -228,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sidocoder/leetcode/tree/master/0022-generate-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/sidocoder/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0721-accounts-merge](https://github.com/sidocoder/leetcode/tree/master/0721-accounts-merge) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sidocoder/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/sidocoder/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
