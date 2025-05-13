@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/sidocoder/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sidocoder/leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/sidocoder/leetcode/tree/master/0338-counting-bits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/sidocoder/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Topological Sort
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sidocoder/leetcode/tree/master/0022-generate-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sidocoder/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0338-counting-bits](https://github.com/sidocoder/leetcode/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/sidocoder/leetcode/tree/master/0542-01-matrix) |
 ## Simulation
 |  |
