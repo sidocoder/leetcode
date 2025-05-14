@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/sidocoder/leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/sidocoder/leetcode/tree/master/1039-find-the-town-judge) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sidocoder/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1435-xor-queries-of-a-subarray](https://github.com/sidocoder/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1876-map-of-highest-peak](https://github.com/sidocoder/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2206-detonate-the-maximum-bombs](https://github.com/sidocoder/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sidocoder/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sidocoder/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sidocoder/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/sidocoder/leetcode/tree/master/0338-counting-bits) |
+| [1435-xor-queries-of-a-subarray](https://github.com/sidocoder/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/sidocoder/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Topological Sort
 |  |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sidocoder/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/sidocoder/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
