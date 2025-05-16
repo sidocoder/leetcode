@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/sidocoder/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1876-map-of-highest-peak](https://github.com/sidocoder/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2206-detonate-the-maximum-bombs](https://github.com/sidocoder/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2478-longest-nice-subarray](https://github.com/sidocoder/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sidocoder/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/sidocoder/leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Depth-First Search
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/sidocoder/leetcode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/sidocoder/leetcode/tree/master/0461-hamming-distance) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sidocoder/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [2478-longest-nice-subarray](https://github.com/sidocoder/leetcode/tree/master/2478-longest-nice-subarray) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/sidocoder/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Topological Sort
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sidocoder/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [2478-longest-nice-subarray](https://github.com/sidocoder/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sidocoder/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Queue
 |  |
