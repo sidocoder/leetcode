@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/sidocoder/leetcode/tree/master/1039-find-the-town-judge) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sidocoder/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sidocoder/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sidocoder/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/sidocoder/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2206-detonate-the-maximum-bombs](https://github.com/sidocoder/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2478-longest-nice-subarray](https://github.com/sidocoder/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/sidocoder/leetcode/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/sidocoder/leetcode/tree/master/0960-minimize-malware-spread) |
 | [1005-univalued-binary-tree](https://github.com/sidocoder/leetcode/tree/master/1005-univalued-binary-tree) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sidocoder/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/sidocoder/leetcode/tree/master/1558-course-schedule-iv) |
 | [2206-detonate-the-maximum-bombs](https://github.com/sidocoder/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 ## Breadth-First Search
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/sidocoder/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/sidocoder/leetcode/tree/master/1036-rotting-oranges) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/sidocoder/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sidocoder/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/sidocoder/leetcode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/sidocoder/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2206-detonate-the-maximum-bombs](https://github.com/sidocoder/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sidocoder/leetcode/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/sidocoder/leetcode/tree/master/0772-construct-quad-tree) |
 | [1036-rotting-oranges](https://github.com/sidocoder/leetcode/tree/master/1036-rotting-oranges) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sidocoder/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/sidocoder/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/sidocoder/leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Union Find
@@ -93,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/sidocoder/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0922-possible-bipartition](https://github.com/sidocoder/leetcode/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/sidocoder/leetcode/tree/master/0960-minimize-malware-spread) |
+| [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sidocoder/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 ## Graph
 |  |
 | ------- |
