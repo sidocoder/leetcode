@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/sidocoder/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sidocoder/leetcode/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/sidocoder/leetcode/tree/master/0772-construct-quad-tree) |
+| [0945-snakes-and-ladders](https://github.com/sidocoder/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0960-minimize-malware-spread](https://github.com/sidocoder/leetcode/tree/master/0960-minimize-malware-spread) |
 | [1036-rotting-oranges](https://github.com/sidocoder/leetcode/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/sidocoder/leetcode/tree/master/1039-find-the-town-judge) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/sidocoder/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/sidocoder/leetcode/tree/master/0871-keys-and-rooms) |
 | [0922-possible-bipartition](https://github.com/sidocoder/leetcode/tree/master/0922-possible-bipartition) |
+| [0945-snakes-and-ladders](https://github.com/sidocoder/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0960-minimize-malware-spread](https://github.com/sidocoder/leetcode/tree/master/0960-minimize-malware-spread) |
 | [1005-univalued-binary-tree](https://github.com/sidocoder/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/sidocoder/leetcode/tree/master/1036-rotting-oranges) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sidocoder/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sidocoder/leetcode/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/sidocoder/leetcode/tree/master/0772-construct-quad-tree) |
+| [0945-snakes-and-ladders](https://github.com/sidocoder/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/sidocoder/leetcode/tree/master/1036-rotting-oranges) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sidocoder/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/sidocoder/leetcode/tree/master/1876-map-of-highest-peak) |
