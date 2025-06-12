@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sidocoder/leetcode/tree/master/0136-single-number) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/sidocoder/leetcode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0268-missing-number](https://github.com/sidocoder/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/sidocoder/leetcode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/sidocoder/leetcode/tree/master/0461-hamming-distance) |
