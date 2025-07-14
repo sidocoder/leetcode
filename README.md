@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sidocoder/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sidocoder/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/sidocoder/leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/sidocoder/leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/sidocoder/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [2478-longest-nice-subarray](https://github.com/sidocoder/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sidocoder/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/sidocoder/leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## Queue
 |  |
 | ------- |
