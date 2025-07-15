@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sidocoder/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sidocoder/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/sidocoder/leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2621-find-xor-beauty-of-array](https://github.com/sidocoder/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/sidocoder/leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## Depth-First Search
 |  |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/sidocoder/leetcode/tree/master/0268-missing-number) |
 | [2206-detonate-the-maximum-bombs](https://github.com/sidocoder/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2621-find-xor-beauty-of-array](https://github.com/sidocoder/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sidocoder/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Bit Manipulation
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-number-of-wonderful-substrings](https://github.com/sidocoder/leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2478-longest-nice-subarray](https://github.com/sidocoder/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sidocoder/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2621-find-xor-beauty-of-array](https://github.com/sidocoder/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/sidocoder/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Topological Sort
 |  |
