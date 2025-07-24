@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sidocoder/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sidocoder/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sidocoder/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
+| [1675-magnetic-force-between-two-balls](https://github.com/sidocoder/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sidocoder/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1762-furthest-building-you-can-reach](https://github.com/sidocoder/leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1876-map-of-highest-peak](https://github.com/sidocoder/leetcode/tree/master/1876-map-of-highest-peak) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/sidocoder/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sidocoder/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/sidocoder/leetcode/tree/master/0721-accounts-merge) |
+| [1675-magnetic-force-between-two-balls](https://github.com/sidocoder/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1962-single-threaded-cpu](https://github.com/sidocoder/leetcode/tree/master/1962-single-threaded-cpu) |
 ## Heap (Priority Queue)
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sidocoder/leetcode/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/sidocoder/leetcode/tree/master/0275-h-index-ii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sidocoder/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1675-magnetic-force-between-two-balls](https://github.com/sidocoder/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 ## Math
 |  |
 | ------- |
