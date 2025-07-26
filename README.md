@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1706-min-cost-to-connect-all-points](https://github.com/sidocoder/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1762-furthest-building-you-can-reach](https://github.com/sidocoder/leetcode/tree/master/1762-furthest-building-you-can-reach) |
 | [1876-map-of-highest-peak](https://github.com/sidocoder/leetcode/tree/master/1876-map-of-highest-peak) |
+| [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/sidocoder/leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1962-single-threaded-cpu](https://github.com/sidocoder/leetcode/tree/master/1962-single-threaded-cpu) |
 | [2206-detonate-the-maximum-bombs](https://github.com/sidocoder/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2478-longest-nice-subarray](https://github.com/sidocoder/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sidocoder/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0721-accounts-merge](https://github.com/sidocoder/leetcode/tree/master/0721-accounts-merge) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sidocoder/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/sidocoder/leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1962-single-threaded-cpu](https://github.com/sidocoder/leetcode/tree/master/1962-single-threaded-cpu) |
 ## Heap (Priority Queue)
 |  |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1762-furthest-building-you-can-reach](https://github.com/sidocoder/leetcode/tree/master/1762-furthest-building-you-can-reach) |
+| [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/sidocoder/leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sidocoder/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Memoization
 |  |
