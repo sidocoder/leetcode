@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/sidocoder/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sidocoder/leetcode/tree/master/0733-flood-fill) |
 | [0772-construct-quad-tree](https://github.com/sidocoder/leetcode/tree/master/0772-construct-quad-tree) |
+| [0881-loud-and-rich](https://github.com/sidocoder/leetcode/tree/master/0881-loud-and-rich) |
 | [0945-snakes-and-ladders](https://github.com/sidocoder/leetcode/tree/master/0945-snakes-and-ladders) |
 | [0960-minimize-malware-spread](https://github.com/sidocoder/leetcode/tree/master/0960-minimize-malware-spread) |
 | [1032-satisfiability-of-equality-equations](https://github.com/sidocoder/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/sidocoder/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/sidocoder/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/sidocoder/leetcode/tree/master/0871-keys-and-rooms) |
+| [0881-loud-and-rich](https://github.com/sidocoder/leetcode/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/sidocoder/leetcode/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/sidocoder/leetcode/tree/master/0960-minimize-malware-spread) |
 | [1005-univalued-binary-tree](https://github.com/sidocoder/leetcode/tree/master/1005-univalued-binary-tree) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/sidocoder/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/sidocoder/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/sidocoder/leetcode/tree/master/0871-keys-and-rooms) |
+| [0881-loud-and-rich](https://github.com/sidocoder/leetcode/tree/master/0881-loud-and-rich) |
 | [0922-possible-bipartition](https://github.com/sidocoder/leetcode/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/sidocoder/leetcode/tree/master/0960-minimize-malware-spread) |
 | [1032-satisfiability-of-equality-equations](https://github.com/sidocoder/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sidocoder/leetcode/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sidocoder/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/sidocoder/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0881-loud-and-rich](https://github.com/sidocoder/leetcode/tree/master/0881-loud-and-rich) |
 | [1558-course-schedule-iv](https://github.com/sidocoder/leetcode/tree/master/1558-course-schedule-iv) |
 ## Tree
 |  |
