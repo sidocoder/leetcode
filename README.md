@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/sidocoder/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/sidocoder/leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1962-single-threaded-cpu](https://github.com/sidocoder/leetcode/tree/master/1962-single-threaded-cpu) |
+| [2140-solving-questions-with-brainpower](https://github.com/sidocoder/leetcode/tree/master/2140-solving-questions-with-brainpower) |
 | [2206-detonate-the-maximum-bombs](https://github.com/sidocoder/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2478-longest-nice-subarray](https://github.com/sidocoder/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/sidocoder/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sidocoder/leetcode/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/sidocoder/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sidocoder/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [2140-solving-questions-with-brainpower](https://github.com/sidocoder/leetcode/tree/master/2140-solving-questions-with-brainpower) |
 ## Simulation
 |  |
 | ------- |
