@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sidocoder/leetcode/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/sidocoder/leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sidocoder/leetcode/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/sidocoder/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0772-construct-quad-tree](https://github.com/sidocoder/leetcode/tree/master/0772-construct-quad-tree) |
 | [0881-loud-and-rich](https://github.com/sidocoder/leetcode/tree/master/0881-loud-and-rich) |
 | [0945-snakes-and-ladders](https://github.com/sidocoder/leetcode/tree/master/0945-snakes-and-ladders) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/sidocoder/leetcode/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/sidocoder/leetcode/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/sidocoder/leetcode/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/sidocoder/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sidocoder/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sidocoder/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [2140-solving-questions-with-brainpower](https://github.com/sidocoder/leetcode/tree/master/2140-solving-questions-with-brainpower) |
