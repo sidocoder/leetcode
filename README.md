@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/sidocoder/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sidocoder/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sidocoder/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1922-count-good-numbers](https://github.com/sidocoder/leetcode/tree/master/1922-count-good-numbers) |
 | [2063-vowels-of-all-substrings](https://github.com/sidocoder/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2206-detonate-the-maximum-bombs](https://github.com/sidocoder/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2621-find-xor-beauty-of-array](https://github.com/sidocoder/leetcode/tree/master/2621-find-xor-beauty-of-array) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/sidocoder/leetcode/tree/master/1013-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/sidocoder/leetcode/tree/master/1922-count-good-numbers) |
 ## Combinatorics
 |  |
 | ------- |
