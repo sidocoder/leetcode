@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sidocoder/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/sidocoder/leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2621-find-xor-beauty-of-array](https://github.com/sidocoder/leetcode/tree/master/2621-find-xor-beauty-of-array) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/sidocoder/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/sidocoder/leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
 ## Depth-First Search
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/sidocoder/leetcode/tree/master/1558-course-schedule-iv) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sidocoder/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [2206-detonate-the-maximum-bombs](https://github.com/sidocoder/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/sidocoder/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-number-of-wonderful-substrings](https://github.com/sidocoder/leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2063-vowels-of-all-substrings](https://github.com/sidocoder/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sidocoder/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/sidocoder/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/sidocoder/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
@@ -409,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sidocoder/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Shortest Path
+|  |
+| ------- |
+| [2976-minimum-cost-to-convert-string-i](https://github.com/sidocoder/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 <!---LeetCode Topics End-->
