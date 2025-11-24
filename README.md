@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/sidocoder/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1706-min-cost-to-connect-all-points](https://github.com/sidocoder/leetcode/tree/master/1706-min-cost-to-connect-all-points) |
 | [1762-furthest-building-you-can-reach](https://github.com/sidocoder/leetcode/tree/master/1762-furthest-building-you-can-reach) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sidocoder/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1876-map-of-highest-peak](https://github.com/sidocoder/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/sidocoder/leetcode/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1962-single-threaded-cpu](https://github.com/sidocoder/leetcode/tree/master/1962-single-threaded-cpu) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sidocoder/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/sidocoder/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sidocoder/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sidocoder/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2206-detonate-the-maximum-bombs](https://github.com/sidocoder/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2621-find-xor-beauty-of-array](https://github.com/sidocoder/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sidocoder/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/sidocoder/leetcode/tree/master/0461-hamming-distance) |
 | [0800-letter-case-permutation](https://github.com/sidocoder/leetcode/tree/master/0800-letter-case-permutation) |
 | [1435-xor-queries-of-a-subarray](https://github.com/sidocoder/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sidocoder/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-number-of-wonderful-substrings](https://github.com/sidocoder/leetcode/tree/master/2044-number-of-wonderful-substrings) |
 | [2478-longest-nice-subarray](https://github.com/sidocoder/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/sidocoder/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/sidocoder/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0494-target-sum](https://github.com/sidocoder/leetcode/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/sidocoder/leetcode/tree/master/0800-letter-case-permutation) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sidocoder/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sidocoder/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sidocoder/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/sidocoder/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -391,4 +395,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/sidocoder/leetcode/tree/master/1013-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sidocoder/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/sidocoder/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
