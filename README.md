@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sidocoder/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sidocoder/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/sidocoder/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sidocoder/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/sidocoder/leetcode/tree/master/0198-house-robber) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/sidocoder/leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/sidocoder/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/sidocoder/leetcode/tree/master/0067-add-binary) |
 | [0093-restore-ip-addresses](https://github.com/sidocoder/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0721-accounts-merge](https://github.com/sidocoder/leetcode/tree/master/0721-accounts-merge) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/sidocoder/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sidocoder/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sidocoder/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Greedy
