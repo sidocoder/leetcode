@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/sidocoder/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sidocoder/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sidocoder/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2063-vowels-of-all-substrings](https://github.com/sidocoder/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2206-detonate-the-maximum-bombs](https://github.com/sidocoder/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2621-find-xor-beauty-of-array](https://github.com/sidocoder/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sidocoder/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/sidocoder/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sidocoder/leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sidocoder/leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [2063-vowels-of-all-substrings](https://github.com/sidocoder/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2140-solving-questions-with-brainpower](https://github.com/sidocoder/leetcode/tree/master/2140-solving-questions-with-brainpower) |
 ## Simulation
 |  |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-satisfiability-of-equality-equations](https://github.com/sidocoder/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/sidocoder/leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2044-number-of-wonderful-substrings](https://github.com/sidocoder/leetcode/tree/master/2044-number-of-wonderful-substrings) |
+| [2063-vowels-of-all-substrings](https://github.com/sidocoder/leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sidocoder/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/sidocoder/leetcode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/sidocoder/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2063-vowels-of-all-substrings](https://github.com/sidocoder/leetcode/tree/master/2063-vowels-of-all-substrings) |
 ## Enumeration
 |  |
 | ------- |
