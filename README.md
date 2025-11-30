@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-possible-bipartition](https://github.com/sidocoder/leetcode/tree/master/0922-possible-bipartition) |
 | [0960-minimize-malware-spread](https://github.com/sidocoder/leetcode/tree/master/0960-minimize-malware-spread) |
 | [1005-univalued-binary-tree](https://github.com/sidocoder/leetcode/tree/master/1005-univalued-binary-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sidocoder/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sidocoder/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/sidocoder/leetcode/tree/master/1558-course-schedule-iv) |
 | [2206-detonate-the-maximum-bombs](https://github.com/sidocoder/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-univalued-binary-tree](https://github.com/sidocoder/leetcode/tree/master/1005-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/sidocoder/leetcode/tree/master/1036-rotting-oranges) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/sidocoder/leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sidocoder/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1507-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sidocoder/leetcode/tree/master/1507-check-if-there-is-a-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/sidocoder/leetcode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/sidocoder/leetcode/tree/master/1876-map-of-highest-peak) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0772-construct-quad-tree](https://github.com/sidocoder/leetcode/tree/master/0772-construct-quad-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sidocoder/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1005-univalued-binary-tree](https://github.com/sidocoder/leetcode/tree/master/1005-univalued-binary-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sidocoder/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Binary Tree
 |  |
 | ------- |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sidocoder/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sidocoder/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1005-univalued-binary-tree](https://github.com/sidocoder/leetcode/tree/master/1005-univalued-binary-tree) |
+| [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/sidocoder/leetcode/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 ## Dynamic Programming
 |  |
 | ------- |
