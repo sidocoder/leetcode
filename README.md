@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2621-find-xor-beauty-of-array](https://github.com/sidocoder/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/sidocoder/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3523-find-the-power-of-k-size-subarrays-ii](https://github.com/sidocoder/leetcode/tree/master/3523-find-the-power-of-k-size-subarrays-ii) |
+| [3623-count-number-of-trapezoids-i](https://github.com/sidocoder/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-minimize-malware-spread](https://github.com/sidocoder/leetcode/tree/master/0960-minimize-malware-spread) |
 | [1039-find-the-town-judge](https://github.com/sidocoder/leetcode/tree/master/1039-find-the-town-judge) |
 | [2044-number-of-wonderful-substrings](https://github.com/sidocoder/leetcode/tree/master/2044-number-of-wonderful-substrings) |
+| [3623-count-number-of-trapezoids-i](https://github.com/sidocoder/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-detonate-the-maximum-bombs](https://github.com/sidocoder/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
 | [2621-find-xor-beauty-of-array](https://github.com/sidocoder/leetcode/tree/master/2621-find-xor-beauty-of-array) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/sidocoder/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3623-count-number-of-trapezoids-i](https://github.com/sidocoder/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2206-detonate-the-maximum-bombs](https://github.com/sidocoder/leetcode/tree/master/2206-detonate-the-maximum-bombs) |
+| [3623-count-number-of-trapezoids-i](https://github.com/sidocoder/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Sliding Window
 |  |
 | ------- |
