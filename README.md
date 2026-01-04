@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sidocoder/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sidocoder/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/sidocoder/leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/sidocoder/leetcode/tree/master/0067-add-binary) |
 | [0093-restore-ip-addresses](https://github.com/sidocoder/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0721-accounts-merge](https://github.com/sidocoder/leetcode/tree/master/0721-accounts-merge) |
