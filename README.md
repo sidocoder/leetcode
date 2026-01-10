@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sidocoder/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0219-contains-duplicate-ii](https://github.com/sidocoder/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/sidocoder/leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/sidocoder/leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/sidocoder/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sidocoder/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0721-accounts-merge](https://github.com/sidocoder/leetcode/tree/master/0721-accounts-merge) |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/sidocoder/leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/sidocoder/leetcode/tree/master/0067-add-binary) |
 | [0093-restore-ip-addresses](https://github.com/sidocoder/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0290-word-pattern](https://github.com/sidocoder/leetcode/tree/master/0290-word-pattern) |
 | [0721-accounts-merge](https://github.com/sidocoder/leetcode/tree/master/0721-accounts-merge) |
 | [0800-letter-case-permutation](https://github.com/sidocoder/leetcode/tree/master/0800-letter-case-permutation) |
 | [1032-satisfiability-of-equality-equations](https://github.com/sidocoder/leetcode/tree/master/1032-satisfiability-of-equality-equations) |
