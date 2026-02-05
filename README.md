@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sidocoder/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/sidocoder/leetcode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sidocoder/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0207-course-schedule](https://github.com/sidocoder/leetcode/tree/master/0207-course-schedule) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sidocoder/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sidocoder/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/sidocoder/leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/sidocoder/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sidocoder/leetcode/tree/master/0210-course-schedule-ii) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sidocoder/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sidocoder/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sidocoder/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sidocoder/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sidocoder/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sidocoder/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0772-construct-quad-tree](https://github.com/sidocoder/leetcode/tree/master/0772-construct-quad-tree) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sidocoder/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sidocoder/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sidocoder/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/sidocoder/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sidocoder/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/sidocoder/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sidocoder/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
