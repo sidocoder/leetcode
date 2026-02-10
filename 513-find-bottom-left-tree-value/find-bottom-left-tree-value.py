@@ -10,21 +10,38 @@ class Solution:
         if not root:
             return []
         
+        # queue = deque([root])
+        # ans = []
+
+        # while queue:
+        #     n = len(queue)
+        #     level = []
+
+        #     for i in range(n):
+        #         node = queue.popleft()
+        #         level.append(node.val)
+
+        #         if node.left: queue.append(node.left)
+        #         if node.right: queue.append(node.right)
+        #     ans.append(level)
+
+        # n = len(ans)
+        # return ans[n-1][0]
+        
+        
         queue = deque([root])
-        ans = []
+        ans = root.val
 
         while queue:
             n = len(queue)
-            level = []
 
             for i in range(n):
                 node = queue.popleft()
-                level.append(node.val)
+
+                if i == 0:
+                    ans = node.val
 
                 if node.left: queue.append(node.left)
                 if node.right: queue.append(node.right)
-            ans.append(level)
 
-        n = len(ans)
-        return ans[n-1][0]
-        
+        return ans
